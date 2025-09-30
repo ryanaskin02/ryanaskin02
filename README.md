@@ -1,4 +1,4 @@
-## Hi they're, I'm Ryan 👋
+## Hi there, I'm Ryan 👋
 
 I am a current MSc student at **Imperial College London** studying **Statistics** (Theory and Methods).
 
