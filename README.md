@@ -6,3 +6,6 @@ Click [here](http://imperial.ac.uk/study/courses/postgraduate-taught/statistics/
 - I completed a B.A in _Mathematics_ at Trinity College Dublin, achieving a first class honours.
 - My LinkedIn profile can be found [here](https://www.linkedin.com/in/ryan-askin-17207a253/).
   
+-----
+
+last updated 30/09/2024
